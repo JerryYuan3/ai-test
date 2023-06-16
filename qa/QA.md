@@ -146,7 +146,7 @@ LPOS人工收银系统登录不上?
 
 
 网页恒康登录方式？		
-1、恒康网址 https://hkerp.****.com.cn/RDWeb/Pages/zh-CN/login.aspx?Ret****n****l=/RDWeb/Pages/zh-CN/Default.aspx；
+1、恒康网址 https://hkerp.ur.com.cn/RDWeb/Pages/zh-CN/login.aspx?Ret****n****l=/RDWeb/Pages/zh-CN/Default.aspx；
 2、请使用IE浏览器打开恒康；
 3、门店一层帐号规则为****\****DN开头，门店个人帐号****D0开头；总部一层账号为****\****B开头，二层帐号为****B0开头。
 
@@ -363,7 +363,7 @@ MRO修改收货地址？
 
 
 恒康网址？		
-恒康：https://hkerp.****.com.cn/RDWeb/Pages/zh-CN/login.aspx?Ret****n****l=/RDWeb/Pages/zh-CN/Default.aspx
+恒康：https://hkerp.ur.com.cn/RDWeb/Pages/zh-CN/login.aspx?Ret****n****l=/RDWeb/Pages/zh-CN/Default.aspx
 
 
 思创理德网页版地址？		
