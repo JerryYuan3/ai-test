@@ -367,11 +367,11 @@ MRO修改收货地址？
 
 
 思创理德网页版地址？		
-思创理德网页版：http://rfid.****.com.cn:10000/hdwClient/#EMPLOYEE
+思创理德网页版：http://rfid.ur.com.cn:10000/hdwClient/#EMPLOYEE
 
 
 LMS网址？		
-LMS：http://lms.****.com.cn/wfc/applications/navigator/Navigator.do
+LMS：http://lms.ur.com.cn/wfc/applications/navigator/Navigator.do
 
 
 退换货权限如何申请？
